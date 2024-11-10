@@ -1,1 +1,1 @@
-confirm.console.log(("ola mundão"));
+console.log(("olá"));
